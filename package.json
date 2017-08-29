@@ -1,5 +1,5 @@
 {
-  "name": "starwars-express",
+  "name": "StarWarsApp",
   "version": "1.0.0",
   "description": "StarWarsApp",
   "main": "server.js",
